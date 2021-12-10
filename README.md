@@ -104,8 +104,26 @@ Knowing the demography of your target audience is crucial,here is the list thatc
 * **Release Month for a movie everything.** The data showed that the movies released in a particular month tend to have higher box office earnings. Microsoft should prioritize making quality, well reviewed movies that can score at least a 6 on IMDb's scale.
 * **Knowing the language preferred by your audience domestically and worldwide.** This plays a pivotal role in deciding how much audience you can gather, which will help the movie make profit.
 
+## Findings
 
+* **Genre generating the highest Worldwide Gross.** 
+* Sci- Fi
 
+* **Language  most preferred by audiences Worldwide & Domestic.**
+* Worldwide : te 'Telegu'
+* Domestic : en 'English
+
+* **Relationship between runtime of movies and their popularity.**
+* Positive Correlation within a timeframe of 100-120 Minutes.
+
+* **Most profitable year for the movie industry.**
+* 2017 was the most profitable year.
+
+* **Release Month that gathers the maximum Worldwide Gross.**
+* November
+
+* **Dependency of Worldwide Gross on Average vote count.**
+* Average Vote Count of 4.4 did well for the worldwide gross.
 
 
 ## For More Information
